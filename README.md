@@ -1,3 +1,2 @@
 # First-React
-Tutorial from Scrimba
-Live on 
+Live on https://first-react-f2e2df.netlify.app/
